@@ -2485,7 +2485,7 @@ input, select, textarea {
 		.image.fit {
 			display: flex;
 			margin: 0 0 2rem 0;
-			width: 200px;
+			width: 210px;
 			align-items: : center;
 			justify-content: center
 		}
