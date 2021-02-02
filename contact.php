@@ -1,7 +1,7 @@
 <?php
 foreach($_POST as $key=>$value) $$key = $value;
 $empresa='SICWS';
-$empresaMail='contacto@sicws.com.mx';
+$empresaMail='contacto@sicws.com';
 
 $asunto = 'Mensaje enviado de '.$empresa;
 $message = 'Nombre: '.$nombre.'<br>correo electronico: '.$email.'<br><br>'.$coment.'<br>Categoria: '.$categoria.;
